@@ -2,8 +2,6 @@
 
 This project was generated with [.NET CORE] version 2.1.1 [EntityFramework] version 2.1.4 [Microsoft SQLSERVER] version 17
 
-![](dev-doc/1viewT4.png)
-
 ## Solution
 <p>This solution contains 4 projects<p>
   @ API
