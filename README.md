@@ -1,6 +1,6 @@
 # 5-AccesUserAPI
 
-This project was generated with [.NET-CORE] version 2.1.1 [Microsoft SQLSERVER] version 17
+This project was generated with [.NET CORE] version 2.1.1 [EntityFramework] version 2.1.4 [Microsoft SQLSERVER] version 17
 
 ![](dev-doc/1viewT4.png)
 
@@ -8,25 +8,19 @@ This project was generated with [.NET-CORE] version 2.1.1 [Microsoft SQLSERVER] 
 <p>This solution contains 4 projects<p>
 </br>
 <p>API<p>
-</br>
+  <pThis api captures the user's browsing behavior (ip, page, params, browse-version) with each new reload.page<p>
 <p>APP<p>
-</br>
+  <p>The APP project consumes the API through static pages HTML and JavaScript requests<p>
 <p>WEB<p>
-</br>
+  <p>The WEB project consumes the API through a Web Application .NET Core Project (cshtml-pages) and JavaScript requests<p>
 <p>JOB<p>
-</br>
-
-![](dev-doc/3viewT4.png)
-## API access key
-This project uses an api (https://home.openweathermap.org) and requires a key to access the api services. To do this, create an account and generate a password.
-
-![](dev-doc/4viewT4.png)
+  <p>The JOB project executes an export (csv) of the user behavior data stored in the SQL SERVER base scheduled according to time-date<p>
 
 ## Install dependencies
 
-Run `npm install` at the project root to load the project-dependent libraries and files.
+Run in `NUGET Package Manager` Project Dependencies to install project libraries
 
 ## Create Update-Database
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Create Upgrade Database from Project API/Data/Migrations/_InitialCreate.cs'
 
