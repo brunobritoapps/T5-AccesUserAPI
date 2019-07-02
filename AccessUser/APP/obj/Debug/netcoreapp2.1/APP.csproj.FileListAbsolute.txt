@@ -1,0 +1,17 @@
+C:\Users\bruno\source\repos\AccessUser\APP\bin\Debug\netcoreapp2.1\APP.deps.json
+C:\Users\bruno\source\repos\AccessUser\APP\bin\Debug\netcoreapp2.1\APP.runtimeconfig.json
+C:\Users\bruno\source\repos\AccessUser\APP\bin\Debug\netcoreapp2.1\APP.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\AccessUser\APP\bin\Debug\netcoreapp2.1\APP.dll
+C:\Users\bruno\source\repos\AccessUser\APP\bin\Debug\netcoreapp2.1\APP.pdb
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.RazorAssemblyInfo.cache
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.RazorAssemblyInfo.cs
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.AssemblyInfo.cs
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.RazorTargetAssemblyInfo.cache
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.dll
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.pdb
+C:\Users\bruno\source\repos\AccessUser\APP\bin\Debug\netcoreapp2.1\API.dll
+C:\Users\bruno\source\repos\AccessUser\APP\bin\Debug\netcoreapp2.1\API.pdb
+C:\Users\bruno\source\repos\AccessUser\APP\obj\Debug\netcoreapp2.1\APP.csproj.CopyComplete

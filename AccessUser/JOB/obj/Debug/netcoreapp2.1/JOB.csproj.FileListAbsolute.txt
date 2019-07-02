@@ -1,0 +1,14 @@
+C:\Users\bruno\source\repos\AccessUser\JOB\bin\Debug\netcoreapp2.1\JOB.deps.json
+C:\Users\bruno\source\repos\AccessUser\JOB\bin\Debug\netcoreapp2.1\JOB.runtimeconfig.json
+C:\Users\bruno\source\repos\AccessUser\JOB\bin\Debug\netcoreapp2.1\JOB.runtimeconfig.dev.json
+C:\Users\bruno\source\repos\AccessUser\JOB\bin\Debug\netcoreapp2.1\JOB.dll
+C:\Users\bruno\source\repos\AccessUser\JOB\bin\Debug\netcoreapp2.1\JOB.pdb
+C:\Users\bruno\source\repos\AccessUser\JOB\obj\Debug\netcoreapp2.1\JOB.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\AccessUser\JOB\obj\Debug\netcoreapp2.1\JOB.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\AccessUser\JOB\obj\Debug\netcoreapp2.1\JOB.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\AccessUser\JOB\obj\Debug\netcoreapp2.1\JOB.AssemblyInfo.cs
+C:\Users\bruno\source\repos\AccessUser\JOB\obj\Debug\netcoreapp2.1\JOB.dll
+C:\Users\bruno\source\repos\AccessUser\JOB\obj\Debug\netcoreapp2.1\JOB.pdb
+C:\Users\bruno\source\repos\AccessUser\JOB\bin\Debug\netcoreapp2.1\API.dll
+C:\Users\bruno\source\repos\AccessUser\JOB\bin\Debug\netcoreapp2.1\API.pdb
+C:\Users\bruno\source\repos\AccessUser\JOB\obj\Debug\netcoreapp2.1\JOB.csproj.CopyComplete
